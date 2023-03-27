@@ -33,7 +33,7 @@ This project is licensed under the MIT license. See the LICENSE.md file for more
 If you have any questions or feedback about this project, you can contact the project owner [Sehrish Khan, contact information: sehrishkhan336@gmail.com].
 
 ## LINK TO Deployed Website:
-https://sehrishkhan336.github.io/Coding-Quiz-JavaScript/
+ https://sehrishkhan336.github.io/Scheduler/
 
 
 ## REFERENCES AND LINKS:
